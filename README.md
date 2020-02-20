@@ -43,8 +43,8 @@ client 127.0.0.1:55555
 
 ### Features
 
-1.AES Dynamic encryption
-2.Supports Multiple Shells
+* AES Dynamic encryption
+* Supports Multiple Shells
 
 ### About
 
