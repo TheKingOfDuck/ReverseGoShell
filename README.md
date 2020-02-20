@@ -4,7 +4,7 @@ Windows:[Releases](https://github.com/TheKingOfDuck/ReverseGoShell/releases/down
 
 ### Description:
 
-A Golang Reverse Shell With AES Dynamic Encryption
+A Golang Reverse Shell Tool With AES Dynamic Encryption
 
 ```
  _____                               _____       _____ _          _ _ 
