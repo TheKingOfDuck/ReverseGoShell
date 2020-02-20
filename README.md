@@ -36,7 +36,7 @@ server 55555
 client 127.0.0.1:55555
 ```
 
-![](https://github.com/TheKingOfDuck/ReverseGoShell/blob/master/images/run.png)
+![](https://github.com/TheKingOfDuck/ReverseGoShell/blob/master/images/run.jpg)
 
 
 ### Features
