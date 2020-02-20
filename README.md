@@ -1,5 +1,7 @@
 ## ReverseGoShell
 
+Windows:[Releases](https://github.com/TheKingOfDuck/ReverseGoShell/releases/download/1.0/ReverseGoShell.zip)
+
 ### Description:
 
 A Golang Reverse Shell With AES Dynamic Encryption
@@ -46,7 +48,7 @@ client 127.0.0.1:55555
 
 ### About
 
-这个项目只是自己学习Golang过程中实践的产物，走tcp协议，通讯流量采用aes动态加密，可以说是完全模仿冰蝎。基础功能执行命令已实现，模块化的检查存在的杀毒软件以及下载文件写完，其他模块还得在花时间。相比同类小工具我觉得最大的优点就是支持了动态加密，并且可以同时管理多个会话。还有个Web管理的版本正在写，前端太难改了。。。
+这个项目只是自己学习Golang过程中实践的产物，代码写得很垃圾，但是注释都尽量写清楚的，通讯流量走tcp协议，采用aes动态加密，可以说是完全模仿冰蝎。基础功能执行命令已实现，模块化的检查存在的杀毒软件以及下载文件写完，其他模块还得在花时间。相比同类小工具我觉得最大的优点就是支持了动态加密，并且可以同时管理多个会话。
 
 **本项目接受建议**
 
