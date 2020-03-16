@@ -2,6 +2,12 @@
 
 Windows:[Releases](https://github.com/TheKingOfDuck/ReverseGoShell/releases/download/1.0/ReverseGoShell.zip)
 
+# Update log：
+
+2020-03-16：
+  新增一个macOS版本的客户端，理论上Linux都可以的，最多改下命令解释的二进制就好了。
+
+
 ### Description:
 
 A Golang Reverse Shell Tool With AES Dynamic Encryption
